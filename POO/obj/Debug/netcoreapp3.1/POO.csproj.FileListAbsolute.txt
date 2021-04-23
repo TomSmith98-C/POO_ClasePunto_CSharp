@@ -1,0 +1,11 @@
+/Users/tom/Projects/POO/POO/bin/Debug/netcoreapp3.1/POO.deps.json
+/Users/tom/Projects/POO/POO/bin/Debug/netcoreapp3.1/POO.runtimeconfig.json
+/Users/tom/Projects/POO/POO/bin/Debug/netcoreapp3.1/POO.runtimeconfig.dev.json
+/Users/tom/Projects/POO/POO/bin/Debug/netcoreapp3.1/POO.dll
+/Users/tom/Projects/POO/POO/bin/Debug/netcoreapp3.1/POO.pdb
+/Users/tom/Projects/POO/POO/obj/Debug/netcoreapp3.1/POO.AssemblyInfoInputs.cache
+/Users/tom/Projects/POO/POO/obj/Debug/netcoreapp3.1/POO.AssemblyInfo.cs
+/Users/tom/Projects/POO/POO/obj/Debug/netcoreapp3.1/POO.csproj.CoreCompileInputs.cache
+/Users/tom/Projects/POO/POO/obj/Debug/netcoreapp3.1/POO.dll
+/Users/tom/Projects/POO/POO/obj/Debug/netcoreapp3.1/POO.pdb
+/Users/tom/Projects/POO/POO/obj/Debug/netcoreapp3.1/POO.genruntimeconfig.cache
